@@ -1,0 +1,25 @@
+h3{
+     
+    text-decoration : underline;
+    color: darkturquoise;
+    text-decoration-color: black;
+}
+.vertical--left{
+
+    border-left: thin solid #ff0000;
+}
+
+.vertical-left {
+    /*padding-top: 50px;*/
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    right: 20px;
+    margin-top: 60px;
+    background-color:#f8f8f8;
+    overflow-x: hidden;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3); 
+
+}

@@ -1,0 +1,17 @@
+{
+    "db_connection" : [
+        {
+            "database" : "mystore",
+            "host" : "mystore.ck1wujocvz7c.us-west-2.rds.amazonaws.com",
+            "Username": "techbuddies",
+            "Password": "changeme123"
+        }
+    ],
+
+    "api_path": [
+        {
+            "filingStated" : "api/states",
+            "companyList" : "api/compaies"
+        }
+    ]
+}
